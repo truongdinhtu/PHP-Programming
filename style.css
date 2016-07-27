@@ -1,0 +1,55 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+#wrapper{
+	width: 960px;
+	margin: 0 auto;
+}
+	#header{
+		width: 960px;
+		height: 238px;
+		background-color: red;
+		border-radius: 10px;
+	}
+	
+	#menu{
+		width: 960px;
+		height: 20px;
+		background-color: yellow;
+		border-radius: 10px;
+	}
+	
+	#left{
+		width: 180px;
+		height:600px;
+		background-color:orange;
+		float: left;
+		border-radius: 10px;
+	}
+
+	#content{
+		width: 600px;
+		height:600px;
+		float: left;
+		background-color: white;
+	}
+	
+	h2{
+		color: red;
+	}
+
+	#right{
+		width: 180px;
+		height: 600px;
+		background-color:blue;
+		float: right;
+		border-radius: 10px;
+	}
+
+	#footer{
+		width: 960px;
+		height: 20px;
+		background-color:yellow;
+
+	}
